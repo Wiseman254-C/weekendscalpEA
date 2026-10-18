@@ -78,4 +78,5 @@ Trading Forex involves significant risk.
 ---
 
 ## License
+Wiseman Trades, KE
 MIT License – you can use, modify, or share this code freely.
